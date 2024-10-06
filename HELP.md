@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'guru.springframework.sdjpa-springdatarest' is invalid and this project uses 'guru.springframework.sdjpa_springdatarest' instead.
+* The original package name 'guru.springframework.sdjpa-springdatarest' is invalid and this project uses 'guru.springframework.sfgrestbrewery' instead.
 
 # Getting Started
 

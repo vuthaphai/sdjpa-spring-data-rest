@@ -1,13 +1,13 @@
-package guru.springframework.sdjpa_springdatarest;
+package guru.springframework.sfgrestbrewery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SdjpaSpringdatarestApplication {
+public class SfgRestfulBreweryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SdjpaSpringdatarestApplication.class, args);
+		SpringApplication.run(SfgRestfulBreweryApplication.class, args);
 	}
 
 }
