@@ -1,0 +1,372 @@
+{
+  "_embedded": {
+    "beers": [
+      {
+        "beerName": "Mango Bobs",
+        "beerStyle": "ALE",
+        "upc": "0631234200036",
+        "quantityOnHand": 3193,
+        "price": 92.64,
+        "createdDate": "2024-10-06T08:06:41.577+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.577+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/ddf072e3-fb57-489f-b601-c840e834a76e"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/ddf072e3-fb57-489f-b601-c840e834a76e"
+          }
+        }
+      },
+      {
+        "beerName": "Galaxy Cat",
+        "beerStyle": "PALE_ALE",
+        "upc": "9122089364369",
+        "quantityOnHand": 3069,
+        "price": 82.94,
+        "createdDate": "2024-10-06T08:06:41.600+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.600+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/92418b88-6364-47c7-ac1c-e70731c1330c"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/92418b88-6364-47c7-ac1c-e70731c1330c"
+          }
+        }
+      },
+      {
+        "beerName": "No Hammers On The Bar",
+        "beerStyle": "WHEAT",
+        "upc": "0083783375213",
+        "quantityOnHand": 3115,
+        "price": 8.77,
+        "createdDate": "2024-10-06T08:06:41.601+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.601+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/e6b8dda0-b8b7-44a1-9d6e-4a01d96076e1"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/e6b8dda0-b8b7-44a1-9d6e-4a01d96076e1"
+          }
+        }
+      },
+      {
+        "beerName": "Blessed",
+        "beerStyle": "STOUT",
+        "upc": "4666337557578",
+        "quantityOnHand": 4040,
+        "price": 5.90,
+        "createdDate": "2024-10-06T08:06:41.602+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.602+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/6a1277c1-22a8-4c73-9fd3-54bc9b4fec75"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/6a1277c1-22a8-4c73-9fd3-54bc9b4fec75"
+          }
+        }
+      },
+      {
+        "beerName": "Adjunct Trail",
+        "beerStyle": "STOUT",
+        "upc": "8380495518610",
+        "quantityOnHand": 4690,
+        "price": 98.38,
+        "createdDate": "2024-10-06T08:06:41.603+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.603+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/3d7a2777-ab42-47e1-82ae-be7f6cfec384"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/3d7a2777-ab42-47e1-82ae-be7f6cfec384"
+          }
+        }
+      },
+      {
+        "beerName": "Very GGGreenn",
+        "beerStyle": "IPA",
+        "upc": "5677465691934",
+        "quantityOnHand": 2351,
+        "price": 66.92,
+        "createdDate": "2024-10-06T08:06:41.605+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.605+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/4883ee52-d81a-41d4-9199-b6e5363a303c"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/4883ee52-d81a-41d4-9199-b6e5363a303c"
+          }
+        }
+      },
+      {
+        "beerName": "Double Barrel Hunahpu's",
+        "beerStyle": "STOUT",
+        "upc": "5463533082885",
+        "quantityOnHand": 2270,
+        "price": 40.01,
+        "createdDate": "2024-10-06T08:06:41.607+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.607+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/36edf0b8-5795-4159-a42f-202b16943987"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/36edf0b8-5795-4159-a42f-202b16943987"
+          }
+        }
+      },
+      {
+        "beerName": "Very Hazy",
+        "beerStyle": "IPA",
+        "upc": "5339741428398",
+        "quantityOnHand": 2403,
+        "price": 4.16,
+        "createdDate": "2024-10-06T08:06:41.608+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.608+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/ad1b4b15-ba5b-432b-add7-67a1ac51f3ae"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/ad1b4b15-ba5b-432b-add7-67a1ac51f3ae"
+          }
+        }
+      },
+      {
+        "beerName": "SR-71",
+        "beerStyle": "STOUT",
+        "upc": "1726923962766",
+        "quantityOnHand": 466,
+        "price": 22.31,
+        "createdDate": "2024-10-06T08:06:41.609+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.609+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/d6ccbbfb-2db1-4e3f-8a78-400969d1e711"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/d6ccbbfb-2db1-4e3f-8a78-400969d1e711"
+          }
+        }
+      },
+      {
+        "beerName": "Pliny the Younger",
+        "beerStyle": "IPA",
+        "upc": "8484957731774",
+        "quantityOnHand": 1488,
+        "price": 99.12,
+        "createdDate": "2024-10-06T08:06:41.610+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.610+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/8cbcdb01-362e-4d8e-8a3b-2be6d9d101ff"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/8cbcdb01-362e-4d8e-8a3b-2be6d9d101ff"
+          }
+        }
+      },
+      {
+        "beerName": "Blessed",
+        "beerStyle": "STOUT",
+        "upc": "6266328524787",
+        "quantityOnHand": 365,
+        "price": 61.25,
+        "createdDate": "2024-10-06T08:06:41.611+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.611+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/c072100e-0137-452c-b70a-506559a868fb"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/c072100e-0137-452c-b70a-506559a868fb"
+          }
+        }
+      },
+      {
+        "beerName": "King Krush",
+        "beerStyle": "IPA",
+        "upc": "7490217802727",
+        "quantityOnHand": 4498,
+        "price": 26.98,
+        "createdDate": "2024-10-06T08:06:41.612+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.612+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/f3dd7172-9926-48c7-b1ba-0a579947800e"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/f3dd7172-9926-48c7-b1ba-0a579947800e"
+          }
+        }
+      },
+      {
+        "beerName": "PBS Porter",
+        "beerStyle": "PORTER",
+        "upc": "8579613295827",
+        "quantityOnHand": 1393,
+        "price": 59.89,
+        "createdDate": "2024-10-06T08:06:41.613+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.613+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/0850dc04-cca1-4f60-a629-7b23985abc13"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/0850dc04-cca1-4f60-a629-7b23985abc13"
+          }
+        }
+      },
+      {
+        "beerName": "Pinball Porter",
+        "beerStyle": "STOUT",
+        "upc": "2318301340601",
+        "quantityOnHand": 2820,
+        "price": 30.52,
+        "createdDate": "2024-10-06T08:06:41.615+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.615+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/83cd9e96-4433-4def-a25a-25f107c909df"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/83cd9e96-4433-4def-a25a-25f107c909df"
+          }
+        }
+      },
+      {
+        "beerName": "Golden Budda",
+        "beerStyle": "STOUT",
+        "upc": "9401790633828",
+        "quantityOnHand": 1143,
+        "price": 30.26,
+        "createdDate": "2024-10-06T08:06:41.616+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.616+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/7b052a65-f846-4f5a-bfbe-d8c83db84755"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/7b052a65-f846-4f5a-bfbe-d8c83db84755"
+          }
+        }
+      },
+      {
+        "beerName": "Grand Central Red",
+        "beerStyle": "LAGER",
+        "upc": "4813896316225",
+        "quantityOnHand": 3212,
+        "price": 5.06,
+        "createdDate": "2024-10-06T08:06:41.617+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.617+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/e02016c3-852a-4e8e-9e7d-55cf99d28fad"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/e02016c3-852a-4e8e-9e7d-55cf99d28fad"
+          }
+        }
+      },
+      {
+        "beerName": "Pac-Man",
+        "beerStyle": "STOUT",
+        "upc": "3431272499891",
+        "quantityOnHand": 4893,
+        "price": 72.51,
+        "createdDate": "2024-10-06T08:06:41.618+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.618+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/fbbc40ed-5dec-4813-a6a8-e11aab5707f2"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/fbbc40ed-5dec-4813-a6a8-e11aab5707f2"
+          }
+        }
+      },
+      {
+        "beerName": "Ro Sham Bo",
+        "beerStyle": "IPA",
+        "upc": "2380867498485",
+        "quantityOnHand": 3958,
+        "price": 74.86,
+        "createdDate": "2024-10-06T08:06:41.619+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.619+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/6d0e332b-da22-4d66-bba5-2ec462f24ffd"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/6d0e332b-da22-4d66-bba5-2ec462f24ffd"
+          }
+        }
+      },
+      {
+        "beerName": "Summer Wheatly",
+        "beerStyle": "WHEAT",
+        "upc": "4323950503848",
+        "quantityOnHand": 3726,
+        "price": 7.58,
+        "createdDate": "2024-10-06T08:06:41.621+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.621+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/0e140785-685f-4d09-8d62-19c8bfa037b3"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/0e140785-685f-4d09-8d62-19c8bfa037b3"
+          }
+        }
+      },
+      {
+        "beerName": "Java Jill",
+        "beerStyle": "LAGER",
+        "upc": "4006016803570",
+        "quantityOnHand": 1507,
+        "price": 8.62,
+        "createdDate": "2024-10-06T08:06:41.622+00:00",
+        "lastModifiedDate": "2024-10-06T08:06:41.622+00:00",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/beers/51259418-e87c-4e58-bd4b-e6bc6dcac898"
+          },
+          "beer": {
+            "href": "http://localhost:8080/beers/51259418-e87c-4e58-bd4b-e6bc6dcac898"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "first": {
+      "href": "http://localhost:8080/beers?page=0&size=20"
+    },
+    "self": {
+      "href": "http://localhost:8080/beers?page=0&size=20"
+    },
+    "next": {
+      "href": "http://localhost:8080/beers?page=1&size=20"
+    },
+    "last": {
+      "href": "http://localhost:8080/beers?page=1&size=20"
+    },
+    "profile": {
+      "href": "http://localhost:8080/profile/beers"
+    },
+    "search": {
+      "href": "http://localhost:8080/beers/search"
+    }
+  },
+  "page": {
+    "size": 20,
+    "totalElements": 30,
+    "totalPages": 2,
+    "number": 0
+  }
+}
